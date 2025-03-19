@@ -32,7 +32,7 @@ nav {
   top: 0;
   left: 0;
   width: 100%;
-  height: 50px;
+  height: 70px;
 
   svg {
     width: 25px;
@@ -46,12 +46,29 @@ nav {
     font-weight: bold;
   }
 
-  img.logo {
+  img.logoWord {
+    opacity: 1;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
     margin: 0 auto;
     filter: invert();
     height: 15px;
+  }
+  img.logoBadge {
+    opacity: 0;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0 auto;
+    height: 40px;
+  }
+}
+@media (max-width: 767px) {
+  img.logoWord {
+    opacity: 0 !important;
+  }
+  img.logoBadge {
+    opacity: 1 !important;
   }
 }

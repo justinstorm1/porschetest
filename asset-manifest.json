@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/porschetest/static/css/main.7a97a093.css",
-    "main.js": "/porschetest/static/js/main.216a3136.js",
+    "main.css": "/porschetest/static/css/main.dce3df5d.css",
+    "main.js": "/porschetest/static/js/main.d2ba293f.js",
     "static/js/453.c055979b.chunk.js": "/porschetest/static/js/453.c055979b.chunk.js",
+    "static/media/porscheLogoBadge.png": "/porschetest/static/media/porscheLogoBadge.afbbabf9d5b8b3de8693.png",
     "static/media/porsche2.jpeg": "/porschetest/static/media/porsche2.0f6c998e661264c01bd7.jpeg",
     "static/media/porsche3.jpeg": "/porschetest/static/media/porsche3.22c43d6b7be032fec16b.jpeg",
     "static/media/porsche.jpg": "/porschetest/static/media/porsche.6119d48c56cff1c26fa0.jpg",
     "static/media/porscheLogoWords.png": "/porschetest/static/media/porscheLogoWords.f65bcdf3e8ae7391c4ee.png",
     "index.html": "/porschetest/index.html",
-    "main.7a97a093.css.map": "/porschetest/static/css/main.7a97a093.css.map",
-    "main.216a3136.js.map": "/porschetest/static/js/main.216a3136.js.map",
+    "main.dce3df5d.css.map": "/porschetest/static/css/main.dce3df5d.css.map",
+    "main.d2ba293f.js.map": "/porschetest/static/js/main.d2ba293f.js.map",
     "453.c055979b.chunk.js.map": "/porschetest/static/js/453.c055979b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a97a093.css",
-    "static/js/main.216a3136.js"
+    "static/css/main.dce3df5d.css",
+    "static/js/main.d2ba293f.js"
   ]
 }
